@@ -135,6 +135,8 @@ milk = Item(100, "Milk", 4.5, "Litre")
 egg = Item(101, "Egg", 0.99, "Piece")
 rice = Item(102, "Rice", 4, "Kg")
 apple = Item(103, "Apple", 5.67, "Kg")
+strawberry=Item(104,"Strawbery",4.99,"kg")
+bread=Item(105,"Bread",6.99,"Ud")
 
 customer1 = Customer("Louis", "Zappa")
 
