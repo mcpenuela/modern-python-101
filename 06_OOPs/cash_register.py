@@ -137,6 +137,8 @@ rice = Item(102, "Rice", 4, "Kg")
 apple = Item(103, "Apple", 5.67, "Kg")
 strawberry=Item(104,"Strawbery",4.99,"kg")
 bread=Item(105,"Bread",6.99,"Ud")
+bread=Item(105,"Bread",6.99,"Ud")
+
 
 customer1 = Customer("Louis", "Zappa")
 
